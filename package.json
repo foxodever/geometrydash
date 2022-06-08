@@ -1,0 +1,23 @@
+{
+  "name": "geometrydash",
+  "version": "1.0.0",
+  "description": "Geometry Dash API for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxodever/geometrydash.git"
+  },
+  "keywords": [
+    "gd",
+    "geometrydash"
+  ],
+  "author": "Foxodever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxodever/geometrydash/issues"
+  },
+  "homepage": "https://github.com/foxodever/geometrydash#readme"
+}
